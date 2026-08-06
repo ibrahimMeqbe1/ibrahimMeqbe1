@@ -3,9 +3,9 @@
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Ibrahim%20Meqbel&fontSize=48&animation=fadeIn&fontColor=fff" width="100%" />
 
-  ### 🖐️ أهلاً بك في ملفي الشخصي | Welcome to My GitHub Profile!
+  ### 🖐️ Welcome to My GitHub Profile!
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Engineer+%26+UI%2FUX+Designer;Co-Founder+of+Osta+App+(Acquired);React.js+%7C+Next.js+%7C+TypeScript+%7C+Tailwind;Building+High-Performance+Web+Apps)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Engineer+%26+UI%2FUX+Designer;Co-Founder+of+Osta+App;React.js+%7C+Next.js+%7C+TypeScript+%7C+Tailwind;Building+High-Performance+Web+Apps)](https://git.io/typing-svg)
 
   <br/>
 
@@ -17,17 +17,17 @@
 
 ---
 
-### 👨‍💻 نبذة عني | About Me
+### 👨‍💻 About Me
 
-> منفّذ ومطور واجهات ويب وتطبيقات إنتاجية عالية الكفاءة مع خبرة واسعة في بناء الأنظمة البرمجية المعقدة وتصميم تجربة المستخدم (UI/UX).
+> Dedicated Frontend Engineer & UI/UX Designer passionate about crafting high-performance web applications, scalable enterprise systems, and intuitive user experiences.
 
-- 🚀 **Frontend Engineer & UI/UX Designer**: متقن لبناء واجهات المستخدم التفاعلية والتطبيقات السريعة.
-- - 💡 **Co-Founder of Osta App **: الشريك المؤسس وقائد تصميم تجربة الواجهات والمستخدم .
-- 🎬 **إنتاج المحتوى المرئي**: إخراج ومونتاج برنامج *خربشات فلسطينية* والمحتوى الرقمي بحصيلة ملايين المشاهدات.
+- 🚀 **Frontend Engineer & UI/UX Designer**: Expert in developing interactive, accessible, high-speed web apps and modern UIs.
+- 💡 **Co-Founder of Osta App**: Co-Founder and Lead UI/UX Product Designer.
+- 🎬 **Visual Content Creator**: Director and editor of *Kharkhashat Palestiniya* and digital media content reaching millions of views.
 
 ---
 
-### 🧰 التقنيات والمهارات | Tech Stack & Tools
+### 🧰 Tech Stack & Tools
 
 #### **Frontend & Frameworks**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -51,7 +51,7 @@
 
 ---
 
-### 📊 إحصائيات جيت هاب | GitHub Statistics
+### 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ibrahimMeqbe1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Ibrahim's GitHub Stats" />
@@ -66,15 +66,15 @@
 
 ---
 
-### 🏆 محطات بارزة | Highlights & Achievements
+### 🏆 Highlights & Achievements
 
-- 🚀 **تطبيق أسطى (Osta App)**: الشريك المؤسس وقائد تصميم تجربة الواجهات والمستخدم .
-- 💼 **تطوير الأنظمة البرمجية**: بناء وتطوير لوحات تحكم وتطبيقات ويب إنتاجية عالية التباين والسرعة والأمان.
-- 🎬 **إنتاج المحتوى المرئي**: إخراج ومونتاج برنامج *خربشات فلسطينية* والمحتوى الرقمي بحصيلة ملايين المشاهدات على يوتيوب وتيك توك.
+- 🚀 **Osta App**: Co-Founder and Lead UI/UX Product Designer for the service marketplace platform.
+- 💼 **Enterprise Systems Development**: Building high-speed, secure, and accessible admin dashboards and web applications.
+- 🎬 **Visual Content Production**: Directing and editing *Kharkhashat Palestiniya* and digital content generating millions of views across YouTube and TikTok.
 
 ---
 
-### 📬 تواصل معي | Connect with Me
+### 📬 Connect with Me
 
 <div align="center">
 
@@ -90,5 +90,5 @@
 ---
 
 <div align="center">
-  <sub>تم التصميم والتطوير بواسطة إبراهيم مقبل © 2026</sub>
+  <sub>Designed & Developed by Ibrahim Meqbel © 2026</sub>
 </div>
